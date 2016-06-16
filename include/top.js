@@ -25,16 +25,13 @@ document.write('\
                         <a href="index.html">Home</a>\
                     </li>\
                     <li>\
-                        <a href="project.html">Project</a>\
+                        <a href="index.html#portfolio">Project</a>\
                     </li>\
                     <li>\
                         <a href="about.html">About</a>\
                     </li>\
                     <li>\
-                        <a href="experience.html">Experience</a>\
-                    </li>\
-                    <li>\
-                        <a href="contact.html">Contact</a>\
+                        <a href="index.html#contact">Contact</a>\
                     </li>\
                 </ul>\
             </div>\
